@@ -18,7 +18,7 @@ Publishing with GitHub Pages
 To get a fast and static portofolio website up and running, you can f.x. publish it with GitHub Pages.
 Read more about GitHub Pages at https://pages.github.com/ .
 
-This GitHub Project focus on crateubg a basic portfolio website, and is the basis for learning and practicing how to setup a basic implementation of
+This GitHub Project focus on creating a basic portfolio website, and is the basis for learning and practicing how to setup a basic implementation of
 Google Analytics through Google Tag Manager.
 
 The course Introduction to Web Analytics for Developers will be published on the course site Glodexa Jobb - https://jobb.glodexa.se , 
