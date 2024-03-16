@@ -3,7 +3,6 @@ This is a template / example of minimum content for a web developer portfolio we
 GitHub: jenschr69/portfolio-template
 
 Demo: jenschr69/jenschr69
-To this demo I've added a custom (sub) domain - https://cv.jenschrchristensen.com
 
 The template is based on W3Schools resume template made with the W3 css framework:
 https://www.w3schools.com/w3css/ 
